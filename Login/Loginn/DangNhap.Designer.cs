@@ -180,13 +180,9 @@
             this.Controls.Add(this.panel1);
             this.DoubleBuffered = true;
             this.Margin = new System.Windows.Forms.Padding(4);
-<<<<<<< HEAD:Login/Login.Designer.cs
-            this.Name = "Login";
-            this.Text = "Đăng Nhập";
-=======
+
             this.Name = "DangNhap";
             this.Text = "Login";
->>>>>>> 6865a33f0c086fae27782dc70d8741949b12ba27:Login/Loginn/DangNhap.Designer.cs
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

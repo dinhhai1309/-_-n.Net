@@ -54,10 +54,7 @@
             this.btnThem = new System.Windows.Forms.Button();
             this.dgvHienThi = new System.Windows.Forms.DataGridView();
             this.txtMaHD = new System.Windows.Forms.TextBox();
-<<<<<<< HEAD:Login/HoaDon.Designer.cs
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-=======
->>>>>>> 6865a33f0c086fae27782dc70d8741949b12ba27:Login/SanPham/hoaDon/HoaDon.Designer.cs
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.groupBox1.SuspendLayout();
@@ -357,24 +354,16 @@
             // 
             // txtMaHD
             // 
-<<<<<<< HEAD:Login/HoaDon.Designer.cs
-            this.txtMaHD.Location = new System.Drawing.Point(127, 38);
-=======
+         
             this.txtMaHD.Location = new System.Drawing.Point(127, 43);
->>>>>>> 6865a33f0c086fae27782dc70d8741949b12ba27:Login/SanPham/hoaDon/HoaDon.Designer.cs
             this.txtMaHD.Name = "txtMaHD";
             this.txtMaHD.Size = new System.Drawing.Size(235, 26);
             this.txtMaHD.TabIndex = 23;
-            // 
-<<<<<<< HEAD:Login/HoaDon.Designer.cs
-            // contextMenuStrip1
-            // 
+
             this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
-=======
->>>>>>> 6865a33f0c086fae27782dc70d8741949b12ba27:Login/SanPham/hoaDon/HoaDon.Designer.cs
             // HoaDon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -434,9 +423,6 @@
         private System.Windows.Forms.ComboBox cmbMaNV;
         private System.Windows.Forms.DataGridView dgvHienThi;
         private System.Windows.Forms.TextBox txtMaHD;
-<<<<<<< HEAD:Login/HoaDon.Designer.cs
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
-=======
->>>>>>> 6865a33f0c086fae27782dc70d8741949b12ba27:Login/SanPham/hoaDon/HoaDon.Designer.cs
     }
 }

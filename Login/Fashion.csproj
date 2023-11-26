@@ -331,6 +331,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Loginn\DangNhap.resx">
       <DependentUpon>DangNhap.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="NhanVien\Luong.resx">
       <DependentUpon>Luong.cs</DependentUpon>
